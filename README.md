@@ -2,6 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# React Table with Pagination, Sorting, Filtering, and Exporting
+
+This project is a React-based table component that provides functionalities such as pagination, sorting, filtering, and data exporting. Users can also toggle column visibility and add summary rows.
+
+## Features
+
+- **Pagination**: Navigate through table data with next and previous buttons.
+- **Sorting**: Sort table data by clicking on column headers.
+- **Filtering**: Filter table data based on specific criteria.
+- **Search**: Search table data with a search bar.
+- **Column Toggling**: Show or hide specific columns.
+- **Data Exporting**: Export table data in various formats.
+
 ## Available Scripts
 
 In the project directory, you can run:
